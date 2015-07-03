@@ -1,0 +1,57 @@
+<html>
+
+
+<head>
+	<script>
+			window.addEventListener('online',function(evt) { 
+						notification("Hurray! .... Online"); 
+			});
+			window.addEventListener('offline',function(evt) {
+						notification("Offline! .... Trying to Reconnect"); 
+			});
+			
+			function notification(text) { 
+				 var x=document.body.appendChild(document.createElement('temp')); 
+				 x.innerHTML=text;
+				 //x.style.cssText="z-index:99;font-size:18px;background:#FFF1A8;top:0";
+				 x.style.cssText="font-size: 21px; position: fixed; top : 15px;left: 581.5px; color: rgb(62, 239, 239); background: rgb(1, 10, 7);";
+				 x.style.position='fixed';
+				 x.style.left=((document.body.clientWidth - x.clientWidth) / 2) + "px"; 
+				
+				window.setTimeout(function(){
+					document.body.removeChild(x)
+				}, 2500);
+			}
+			
+			
+			
+			
+			
+	</script>
+
+</head>
+
+<body  style="background-color: black;">
+		<h2 style="position: relative;top: 200px;color: red;text-align: center;"> Turn on/off your network</h2>	
+		<p id="name" style="position: relative;top: 300px;left: 461px;color: red;">h</p>
+		<script>
+				
+				megamind =lines = [
+                    "<pre>"+
+					"=========================================================<br>"+
+					"                   _ ^^ _							   <br>"+
+					"                  /      \\         _ _  	           <br>"+					
+					"                 | () ()  |      /     \\              <br>"+
+					"                 |   |    |     |       |              <br>"+					
+					"                 |  ___   |     |       |              <br>"+
+					"                 |        |     |       |              <br>"+
+					"                  \\_ __ _/_______\\ _ _ /             <br>"+
+					"                                                       <br>"+
+                   "=========================================================<br>"+
+                "</pre>"]
+				document.getElementById("name").innerHTML = megamind; 
+				
+		</script>
+</body>
+
+</html>
