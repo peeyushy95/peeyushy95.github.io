@@ -19,9 +19,9 @@ function readTextFile(file,id){
 	for(var line = 0; line < lines.length; line++){
 			 
         if(!document.getElementById('timedrpact'+line)){
-            var ele = document.createElement("li");
-            ele.innerHTML="<i class='fa-li fa fa-spinner fa-spin'></i> "+lines[line];
-            output.appendChild(ele);
+            var element = document.createElement("li");
+            element.innerHTML="<i class='fa-li fa fa-spinner '></i> "+lines[line];
+            output.appendChild(element);
             
         }
     }
