@@ -18,8 +18,9 @@ function readTextFile(file,id){
 	
 	for(var line = 0; line < lines.length; line++){
 			 
-        if(!document.getElementById('timedrpact'+line)){
+        if(!document.getElementById('dyna'+line)){
             var element = document.createElement("li");
+            element.setAttribute("id",'dyna'+line );
             element.style.fontSize = "19px";
             element.innerHTML="<i class='fa-li fa fa-child' ></i> "+lines[line];
             output.appendChild(element);
