@@ -3,4 +3,4 @@
 <pre>n & ( n - 1 )                 turn off last set bit.</pre>
 <pre>n & ( n + 1 )                 turn off last consecutive run of one.</pre>
 <pre>n || ( n - 1 )                turn on last consecutive run of zero.</pre>
-<pre>n || ( n + 1 )                turn on  last zero bit.</pre>
+<pre>n || ( n + 1 )                turn on last zero bit.</pre>
