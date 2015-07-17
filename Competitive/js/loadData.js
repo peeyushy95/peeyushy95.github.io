@@ -20,7 +20,7 @@ function readTextFile(file,id){
 			 
         if(!document.getElementById('timedrpact'+line)){
             var element = document.createElement("li");
-            element.innerHTML="<i class='fa-li fa fa-spinner '></i> "+lines[line];
+            element.innerHTML="<i class='fa-li fa fa-anchor '></i> "+lines[line];
             output.appendChild(element);
             
         }
