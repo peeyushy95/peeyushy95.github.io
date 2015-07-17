@@ -11,7 +11,7 @@ function readTextFile(file)
                 var allText = rawFile.responseText;
                 text = allText.replace(/\r?\n/g, '<br />');
                 document.getElementById('gg').innerHTML= text;
-                alert(allText);
+                
             }
         }
     }
