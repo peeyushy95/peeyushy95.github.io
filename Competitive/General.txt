@@ -1,3 +1,4 @@
 num % n == num & (n - 1)      if n is a power of 2
 n & ( n - 1 ) == 0            if n is a power of 2
-n & ( n - 1 )                 turns of last set bit
+n & ( n - 1 )                 turn off last set bit
+n || ( n + 1 )                turn on  last zeron bit         
