@@ -15,6 +15,7 @@
             if(rawFile.status === 200 || rawFile.status == 0)
             {
                 var allText = rawFile.responseText;
+                document.getElementById('main').innerHTML= allText;
                 alert(allText);
             }
         }
