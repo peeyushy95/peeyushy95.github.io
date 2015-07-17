@@ -194,6 +194,7 @@ a:hover {
 
 .scroller {
 	padding: 10px 5% 10px 5%;
+	color:black;
 }
 
 .js .content:before,
@@ -236,7 +237,7 @@ a:hover {
 	font-weight: 300;
 	font-size: 2em;
 	padding: 0 0 10px;
-	color: #333;
+	color: #819ADB;
 	margin: 0 1% 40px;
 	text-align: left;
 	box-shadow: 0 10px 0 rgba(0,0,0,0.02);
