@@ -19,7 +19,7 @@ function readTextFile(file,id){
 	for(var line = 0; line < lines.length; line++){
 			 
         if(!document.getElementById('timedrpact'+line)){
-            var element = document.createElement("li").style.fontSize = "19px";
+            var element = document.createElement("li");
             element.innerHTML="<i class='fa-li fa fa-child ></i> "+lines[line];
             output.appendChild(element);
             
