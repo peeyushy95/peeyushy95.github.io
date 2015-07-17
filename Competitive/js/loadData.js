@@ -1,4 +1,4 @@
-function readTextFile(file){
+function readTextFile(file,id){
 	var lines=""
 	var rawFile = new XMLHttpRequest();
     rawFile.open("GET", file, false);
@@ -14,7 +14,7 @@ function readTextFile(file){
 	
 	
 	
-    var output = document.getElementById('output');
+    var output = document.getElementById(id);
 	
 	for(var line = 0; line < lines.length; line++){
 			 
