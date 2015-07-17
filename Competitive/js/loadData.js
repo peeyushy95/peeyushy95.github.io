@@ -1,4 +1,5 @@
-function readTextFile(file){
+function readTextFile(file)
+{
     var rawFile = new XMLHttpRequest();
     rawFile.open("GET", file, false);
     rawFile.onreadystatechange = function ()
@@ -8,7 +9,8 @@ function readTextFile(file){
             if(rawFile.status === 200 || rawFile.status == 0)
             {
                 var allText = rawFile.responseText;
-                document.getElementById('main').innerHTML= allText;
+                text = allText.replace(/\r?\n/g, '<br />');
+                document.getElementById('gg').innerHTML= text;
                 alert(allText);
             }
         }
