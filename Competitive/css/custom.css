@@ -232,6 +232,17 @@ a:hover {
 	text-shadow: 0 0 2px #fff;
 }
 
+.content h1 {
+	font-weight: 300;
+	font-size: 2em;
+	padding: 0 0 10px;
+	color: #333;
+	margin: 0 1% 40px;
+	text-align: left;
+	box-shadow: 0 10px 0 rgba(0,0,0,0.02);
+	text-shadow: 0 0 2px #fff;
+}
+
 .no-js .content h2 {
 	padding: 40px 1% 20px;
 }
