@@ -15,7 +15,7 @@
             if(rawFile.status === 200 || rawFile.status == 0)
             {
                 var allText = rawFile.responseText;
-                text = allText.replace(/\n/g, "\r\n");
+                text = allText.replace(/\r?\n/g, '<br />');
                 document.getElementById('main').innerHTML= text;
                 alert(allText);
             }
