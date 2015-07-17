@@ -1,5 +1,6 @@
 <pre>num % n == num & (n - 1)      if n is a power of 2.</pre>
-n & ( n - 1 ) == 0            if n is a power of 2.
-n & ( n - 1 )                 turn off last set bit.
-<pre>n & ( n + 1 )            turn off last consecutive run of one.</pre>
-n || ( n + 1 )                turn on  last zero bit.
+<pre>n & ( n - 1 ) == 0            if n is a power of 2.</pre>
+<pre>n & ( n - 1 )                 turn off last set bit.</pre>
+<pre>n & ( n + 1 )                 turn off last consecutive run of one.</pre>
+<pre>n || ( n - 1 )                turn on last consecutive run of zero.</pre>
+<pre>n || ( n + 1 )                turn on  last zero bit.</pre>
