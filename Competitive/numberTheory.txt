@@ -1,0 +1,13 @@
+For any pair of natural numbers n and k, the number of distinct k-tuples of non-negative integers whose sum is n is given by the binomial coefficient  , or equivalently by the multiset number   which counts the multisets of cardinality n, with elements taken from a set of k elements (for   both these numbers are defined to be 1).
+(a/b)%m= (a%(b*m))/b   bcz  a/b=r +k*m => a =r*b + k*(b*m)
+1? + 2? + ... n? = (1 + 2 …. + n) ²                                                                               L1
+Fib(0) + fib(1)…. Fib(n) = fib(n+2) - 1
+Inverse of a in field of  p = power(a, p – 2, p)
+If we want to generate 1 to n by partitioning n is n/2, n/4, n/8, ….1
+(N)C(R) = (N-1)C(R-1) + (N-1)C(R)
+(N+1)C (N-K) = (K)C(0) + (K+1)C(1) + …. (N)C(N-K)
+-1 = (p-1)! % p  						proof
+There are only two number which are inverse of itself (1,p-1) in field of p.If a number is inverse of itself modulo p i.e  (1= u² % p)   p|u-1 or p|u+1 =>  u%p=1 or u%p=p-1.While all other number between 2 and p-2 can be paired to form inverse;
+Composite modulo:- 0= (n-1)! % n   exception 4( where 3! = 6 = 2 (mod 4))      Proof
+if  n can be factored as the product of two unequal numbers , n = ab, where 2 = a < b = n - 2, then both a and b will appear in the product 1 × 2 × ... × (n - 1) = (n - 1)! and (n - 1)! will be divisible by n.
+If n has no such factorization, then it must be the square of some prime q, q > 2. But then 2q < q2 = n, both q and 2q will be factors of (n - 1)!, and again n divides (n - 1)!.

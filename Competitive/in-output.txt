@@ -1,0 +1,26 @@
+If i/p is like  0.57878… unknown no. of digit between(.0 and …)
+Char digit [100]; ….. Don’t use int
+                                                                   scanf(“0.%[0-9]…”,&digit);
+
+If i/p format : 23:343:2323 then          scanf(“%d:%d:%d”,&I,&j,&k);
+
+SSCANF(read data from string):           s=”23:34:565”                                           
+sscanf(s,“%d:%d:%d”,&I,&j,&k);
+
+•SPRINTF                                                   char s[50]; int a=5,b=3;
+ 					sprintf (s,”%d plus %d is %d”, a, b, a +c);
+					S contains [5 plus 3 is 8] 
+
+•	Stringstream				stringstream ss;int f,v;
+1.	ss << 100 << ‘  ‘<<200 
+ ss>>f>>v;   result:- f=100 v=200 
+
+2.	string line, temp, st;
+        scanf ("%c",&c);    imp
+        getline(cin, line);
+        stringstream st(line);
+        while (!st.eof())
+       {
+                    st>>temp;
+	      ….code…
+        }
