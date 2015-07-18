@@ -1,3 +1,3 @@
-(nco) 2  + (nc1) 2  +(nc2) 2   + ….(ncn) 2  =  2nCn                     L1  L2
-(1 + x)^p % p = 1 + x^p                                                                 Lucas's theorem
-(N+1)C(N-K) = (K)C(0) + (K+1)C(1) + ...... (N)C(N-K)
+(nC0)^2 + (nC1)^2 +(nC2)^2 + .... + (nCn)^2  =  2nCn 
+(1 + x)^p % p = 1 + x^p
+(K)C(0) + (K+1)C(1) + ...... (N)C(N-K) = (N+1)C(N-K)
