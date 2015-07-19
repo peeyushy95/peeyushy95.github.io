@@ -1,6 +1,6 @@
 $a\&(n - 1) \equiv a\pmod n$ <pre>         if n is a power of 2.
-$n \& ( n - 1 ) == 0$<pre>                 if n is a power of 2.
+$n \& ( n - 1 ) \equiv 0$<pre>             if n is a power of 2.
 $n \& ( n - 1 )$<pre>                      turn off last set bit.</pre>
 $n \& ( n + 1 )$<pre>                      turn off last consecutive run of one.</pre>
-$n || ( n - 1 )$<pre>                      turn on last consecutive run of zero.</pre>
-$n || ( n + 1 )$<pre>                      turn on last zero bit.</pre>
+$n | ( n - 1 )$<pre>                       turn on last consecutive run of zero.</pre>
+$n | ( n + 1 )$<pre>                       turn on last zero bit.</pre>
