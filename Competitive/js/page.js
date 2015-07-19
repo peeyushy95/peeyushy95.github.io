@@ -51,16 +51,11 @@ var Page = (function() {
 		// add navigation events
 		$navNext.on( 'click', function() {
 			bb.next();
-			
-				var treeTraversal = bb.children().map(function(){
-			    return this.id;}).get();
-			    alert(treeTraversal[0]);
 			return false;
 		} );
 
 		$navPrev.on( 'click', function() {
 			bb.prev();
-			alert(bb);
 			return false;
 		} );
 		
