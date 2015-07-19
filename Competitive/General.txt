@@ -1,7 +1,7 @@
 <pre>num % n == num & (n - 1)      if n is a power of 2.</pre>
 <pre>$ num\&\(n - 1\) equiv num\pmod n    if n is a power of 2.</pre>
 a\equiv b\pmod n
-$a \ne 0$
+<pre>$a \ne 0$</pre>
 \(ax^2 + bx + c = 0\)
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 <pre>n & ( n - 1 ) == 0            if n is a power of 2.</pre>
