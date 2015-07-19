@@ -1,4 +1,4 @@
-<html >
+<!---<html >
   <head>
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({
@@ -6,7 +6,10 @@
       });
     </script>
 
+    
     <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+    
+    
   </head>
 
   <body>
@@ -19,5 +22,22 @@
 					<script type="math/tex; mode=display"> s_X^2 = \frac{1}{N - 1} \sum_{i=1}^N (Y_i - \bar{Y})^2  \mbox{ and } s_X^2 = \frac{1}{M  -1} \sum_{i=1}^M (X_i - \bar{X})^2</script>
   
   </body>
+</html> --->
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>MathJax TeX Test Page</title>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+<body>
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+</body>
 </html>
 
