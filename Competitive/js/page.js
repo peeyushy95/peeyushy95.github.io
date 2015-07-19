@@ -139,13 +139,12 @@ var Page = (function() {
 			$navNext.show();
 			$navPrev.show();
 		}
-		readTextFile("General.txt","general");
-		readTextFile("integer.txt","integer");
-		readTextFile("in-output.txt","in-output");
-		readTextFile("numberTheory.txt","number");
-		readTextFile("Combinatorics.txt","combinatorics");
+		if(current == 1) readTextFile("integer.txt","integer");
+		if(current == 2) readTextFile("in-output.txt","in-output");
+		if(current == 3) readTextFile("numberTheory.txt","number");
+		if(current == 4) readTextFile("Combinatorics.txt","combinatorics");
 	
-		alert(current);
+	
 
 	}
 
