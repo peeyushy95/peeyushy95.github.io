@@ -1,6 +1,6 @@
 <pre>num % n == num & (n - 1)      if n is a power of 2.</pre>
 a\equiv b\pmod n
-a\equiv b\pmod n
+ $a \ne 0$
 <pre>n & ( n - 1 ) == 0            if n is a power of 2.</pre>
 <pre>n & ( n - 1 )                 turn off last set bit.</pre>
 <pre>n & ( n + 1 )                 turn off last consecutive run of one.</pre>
