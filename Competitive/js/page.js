@@ -139,6 +139,7 @@ var Page = (function() {
 			$navNext.show();
 			$navPrev.show();
 		}
+		alert(current);
 
 	}
 
