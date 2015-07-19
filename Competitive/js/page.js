@@ -51,6 +51,7 @@ var Page = (function() {
 		// add navigation events
 		$navNext.on( 'click', function() {
 			bb.next();
+			alert(bb);
 			return false;
 		} );
 
