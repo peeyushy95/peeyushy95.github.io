@@ -13,10 +13,6 @@ var Page = (function() {
 			onEndFlip : function(old, page, isLimit) {
 				
 				current = page;
-				if(current == 1) readTextFile("integer.txt","integer");
-				if(current == 2) readTextFile("in-output.txt","in-output");
-				if(current == 3) readTextFile("numberTheory.txt","number");
-				if(current == 4) readTextFile("Combinatorics.txt","combinatorics");
 				// update TOC current
 				updateTOC();
 				// updateNavigation
