@@ -1,5 +1,5 @@
 <pre>num % n == num & (n - 1)      if n is a power of 2.</pre>
-$num\&\(n - 1\) equiv num\pmod n$    if n is a power of 2.
+$num\&(n - 1) \equiv num\pmod n$    if n is a power of 2.
 $a\equiv b\pmod n$
 <pre>$a \ne 0$</pre>
 \(ax^2 + bx + c = 0\)
