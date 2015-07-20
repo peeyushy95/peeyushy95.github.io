@@ -1,6 +1,3 @@
-$(\binom{n}{0})^2 + (\binom{n}{1})^2 + (\binom{n}{2})^2 + \cdots + (\binom{n}{n})^2 = (\binom{2n}{n})^2$
-(nC0)^2 + (nC1)^2 +(nC2)^2 + .... + (nCn)^2  =  2nCn 
-(1 + x)^p % p = 1 + x^p
-(K)C(0) + (K+1)C(1) + ...... (N)C(N-K) = (N+1)C(N-K)
-$ \binom{n}{0}^2$
-${n+1 \choose 2k} or \binom{n+1}{2k}$
+$\binom{n}{0}^2 + \binom{n}{1}^2 + \binom{n}{2}^2 + \cdots + \binom{n}{n}^2 = \binom{2n}{n}^2$
+$(1 + x)^p \pmod p \equiv 1 + x^p$
+$\binom{k}{0} + \binom{k+1}{1} + \cdots + \binom{n}{n-k}= \binom{n+1}{n-k}$
