@@ -4,4 +4,3 @@ $n\&(n-1)$<pre>                         turn off last set bit.</pre>
 $n\&(n+1)$<pre>                         turn off last consecutive run of one.</pre>
 $n|(n-1)$<pre>                          turn on last consecutive run of zero.</pre>
 $n|(n+1)$<pre>                          turn on last zero bit.</pre>
-${n+1 \choose 2k} or \binom{n+1}{2k}$
