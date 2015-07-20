@@ -2,4 +2,4 @@ $(\binom{n}{0})^2 + (\binom{n}{1})^2 + (\binom{n}{2})^2 + \cdots + (\binom{n}{n}
 (nC0)^2 + (nC1)^2 +(nC2)^2 + .... + (nCn)^2  =  2nCn 
 (1 + x)^p % p = 1 + x^p
 (K)C(0) + (K+1)C(1) + ...... (N)C(N-K) = (N+1)C(N-K)
-\\( 1/x^{2} \\)
+$ \binom{n}{0}^2$
