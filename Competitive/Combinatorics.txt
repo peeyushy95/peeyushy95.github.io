@@ -3,3 +3,4 @@ $(\binom{n}{0})^2 + (\binom{n}{1})^2 + (\binom{n}{2})^2 + \cdots + (\binom{n}{n}
 (1 + x)^p % p = 1 + x^p
 (K)C(0) + (K+1)C(1) + ...... (N)C(N-K) = (N+1)C(N-K)
 $ \binom{n}{0}^2$
+${n+1 \choose 2k} or \binom{n+1}{2k}$
