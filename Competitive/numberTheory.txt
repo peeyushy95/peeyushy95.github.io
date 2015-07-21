@@ -3,7 +3,7 @@ Catalan Number $C_n = {2n\choose n} - {2n\choose n+1} = {1\over n+1}{2n\choose n
 $1^3 + 2^3 + \cdots + n^3 = (1 + 2 + \cdots + n)^2$                                                                               L1
 $fib(0) + fib(1) + \cdots + fib(n) = fib(n+2) - 1$
 Inverse of a in field of  p(prime) = power(a, p–2, p) if gcd(a,p)=1
--1 = (p-1)! % p  		
+$-1 \equiv (p-1)! \pmod p(prime)$	
 There are only two number which are inverse of itself (1,p-1) in field of p.If a number is inverse of itself modulo p i.e  (1= u² % p)   p|u-1 or p|u+1 =>  u%p=1 or u%p=p-1.While all other number between 2 and p-2 can be paired to form inverse;
 Composite modulo:- 0= (n-1)! % n   exception 4( where 3! = 6 = 2 (mod 4))      Proof
 if  n can be factored as the product of two unequal numbers , n = ab, where 2 = a < b = n - 2, then both a and b will appear in the product 1 × 2 × ... × (n - 1) = (n - 1)! and (n - 1)! will be divisible by n.
