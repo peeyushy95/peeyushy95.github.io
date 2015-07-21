@@ -2,7 +2,7 @@ Catalan Number $C_n = \frac{1}{n+1}{2n\choose n}$
 (a/b)%m= (a%(b*m))/b   bcz  a/b=r +k*m => a =r*b + k*(b*m)
 $1^3 + 2^3 + \cdots + n^3 = (1 + 2 + \cdots + n)^2$                                                                               L1
 $fib(0) + fib(1) + \cdots + Fib(n) = fib(n+2) - 1$
-Inverse of a in field of  p = power(a, p–2, p) if gcd(a,p)=1
+Inverse of a in field of  p(prime) = power(a, p–2, p) if gcd(a,p)=1
 (N)C(R) = (N-1)C(R-1) + (N-1)C(R)
 (N+1)C (N-K) = (K)C(0) + (K+1)C(1) + …. (N)C(N-K)
 -1 = (p-1)! % p  						proof
