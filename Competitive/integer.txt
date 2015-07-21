@@ -5,5 +5,5 @@ If we square such an odd prime P ( P%4=3 ) then (4k + 3) * (4k + 3) will become 
 now num=p^2n  is a square bcz  num%4=1,  (a²+b²)*num=(a(p^n)) ² + (b(p^n)) ²
 Fibonacci’s identity: - The product of two sums each of two squares is itself a sum of two squares i.e. for integers a, b, c, d . (a² + b²) (c² + d²) = (ac – bd) ² + (ad + bc) ² = (ac + bd) ² + (ad – bc) ² 
 $1 \oplus 2 \oplus  \cdots \oplus n = 0 if (n \pmod 4 \equiv 0 or 3) <br> 1 if (n \pmod 4 \equiv 1) <br> N+1 if (n \pmod 4 \equiv 2)$
-
+$1 \oplus 2 \oplus  \cdots \oplus n = \begin{cases} 0,  & \text{if $n \pmod 4 \equiv 0 or 3$} \\ 1, & \text{if $(n \pmod 4 \equiv 1$ } \end{cases}$
 $1^2 + 2^2 + \cdots + n^2  = (n*(n+1)(2n+1))/6   =  \binom{n+2}{3} + \binom{n+3}{3}$
