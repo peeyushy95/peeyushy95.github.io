@@ -22,5 +22,5 @@ sscanf(s,“%d:%d:%d”,&I,&j,&k);
         while (!st.eof())
        {
                     st>>temp;
-	      ….code…
+	     //code.....
         }
