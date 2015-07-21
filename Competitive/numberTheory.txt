@@ -1,9 +1,8 @@
-For any pair of natural numbers n and k, the number of distinct k-tuples of non-negative integers whose sum is n is given by the binomial coefficient  , or equivalently by the multiset number   which counts the multisets of cardinality n, with elements taken from a set of k elements (for   both these numbers are defined to be 1).
+Catalan Number $C_n = \frac{1}{n+1}{2n\choose n}$
 (a/b)%m= (a%(b*m))/b   bcz  a/b=r +k*m => a =r*b + k*(b*m)
-1? + 2? + ... n? = (1 + 2 …. + n) ²                                                                               L1
-Fib(0) + fib(1)…. Fib(n) = fib(n+2) - 1
-Inverse of a in field of  p = power(a, p – 2, p)
-If we want to generate 1 to n by partitioning n is n/2, n/4, n/8, ….1
+$1^3 + 2^3 + \cdots + n^3 = (1 + 2 + \cdots + n)^2$                                                                               L1
+$fib(0) + fib(1) + \cdots + Fib(n) = fib(n+2) - 1$
+Inverse of a in field of  p = power(a, p–2, p) if gcd(a,p)=1
 (N)C(R) = (N-1)C(R-1) + (N-1)C(R)
 (N+1)C (N-K) = (K)C(0) + (K+1)C(1) + …. (N)C(N-K)
 -1 = (p-1)! % p  						proof
