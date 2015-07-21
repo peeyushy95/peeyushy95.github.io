@@ -4,4 +4,4 @@ $n\&(n-1)$<pre>                         turn off last set bit.</pre>
 $n\&(n+1)$<pre>                         turn off last consecutive run of one.</pre>
 $n|(n-1)$<pre>                          turn on last consecutive run of zero.</pre>
 $n|(n+1)$<pre>                          turn on last zero bit.</pre>
-In every finite undirected graph number of vertices with ODD degree is always EVEN. reason - $$\sum_{i=1}^n degree(v_i) = 2*Edges$$ 
+In every finite undirected graph number of vertices with ODD degree is always EVEN. reason - $\sum_{i=1}^n degree(v_i) = 2*Edges$ 
