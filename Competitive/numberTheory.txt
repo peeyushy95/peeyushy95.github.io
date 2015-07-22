@@ -5,6 +5,6 @@ $fib(0) + fib(1) + \cdots + fib(n) = fib(n+2) - 1$
 Inverse of a in field of  p(prime) = $a^{p - 2} \pmod p$ if gcd(a,p)=1
 $-1 \equiv (p-1)! \pmod p$	
 There are only two number which are inverse of itself (1,p-1) in field of p.If a number is inverse of itself modulo p i.e  (1= u² % p)   p|u-1 or p|u+1 =>  u%p=1 or u%p=p-1.While all other number between 2 and p-2 can be paired to form inverse;
-Composite modulo:- 0= (n-1)! % n   exception 4( where 3! = 6 = 2 (mod 4))      Proof
+Composite modulo:- 0= (n-1)! % n   exception 4( where 3! = 6 = 2 (mod 4))      
 if  n can be factored as the product of two unequal numbers , n = ab, where 2 = a < b = n - 2, then both a and b will appear in the product 1 × 2 × ... × (n - 1) = (n - 1)! and (n - 1)! will be divisible by n.
 If n has no such factorization, then it must be the square of some prime q, q > 2. But then 2q < q2 = n, both q and 2q will be factors of (n - 1)!, and again n divides (n - 1)!.
