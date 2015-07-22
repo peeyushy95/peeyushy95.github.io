@@ -1,6 +1,5 @@
 Catalan Number $C_n = {2n\choose n} - {2n\choose n+1} = {1\over n+1}{2n\choose n} \quad\text{ for }n\ge 0$
 ${a\over b} \pmod  m = { a \mod b*m \over b } \: Reason -> \: {a\over b} = r + k*m , a =r*b + k*(b*m)$
-$(a/b)%m= (a%(b*m))/b   bcz  a/b=r +k*m => a =r*b + k*(b*m)$
 $1^3 + 2^3 + \cdots + n^3 = (1 + 2 + \cdots + n)^2$                                                                               
 $fib(0) + fib(1) + \cdots + fib(n) = fib(n+2) - 1$
 Inverse of a in field of  p(prime) = $a^{p - 2} \pmod p$ if gcd(a,p)=1
