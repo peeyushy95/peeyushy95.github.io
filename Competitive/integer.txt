@@ -1,6 +1,6 @@
 Any integer can be expressed in the form of 4k + r. r belongs to [0,3]. Also the square of any integer can only have r as 0 or 1.
-$p\pmod 4 \equiv 1 \hspace{10mm} or \hspace{10mm} 3$ where p is odd prime.
-An ODD prime number p can be expressed as $p = x² + y² \text{with integer x,y iff } 1 \equiv p \pmod 4.$
+$p\pmod 4 \equiv 1 \: or \: 3$ where p is odd prime.
+An ODD prime number p can be expressed as $p = x² + y² \: \text{with integer x,y iff } 1 \equiv p \pmod 4.$
 If we square such an odd prime P ( P%4=3 ) then (4k + 3) * (4k + 3) will become (4k’ + 1). So if the power of an odd prime number is EVEN then it will be of the form of 4k + 1.
 now num=p^2n  is a square bcz  num%4=1,  (a²+b²)*num=(a(p^n)) ² + (b(p^n)) ²
 Fibonacci’s identity: - The product of two sums each of two squares is itself a sum of two squares i.e. for integers a, b, c, d . (a² + b²) (c² + d²) = (ac – bd)² + (ad + bc)² = (ac + bd)² + (ad – bc)² 
