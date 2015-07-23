@@ -1,1 +1,78 @@
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/" target="_blank" style=" color: cadetblue;">Binary Search</a> - Topcoder
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/">The Importance of Algorithms</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/">How To Dissect a Topcoder Problem Statement</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/">How to Find a Solution</a>
+Planning an Approach to a Topcoder Problem:<br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/planning-an-approach-to-a-topcoder-problem-part-1/">Section 1</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/planning-an-approach-to-a-topcoder-problem-part-2/">Section 2</a><br />
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/">Mathematics for Topcoders</a>
+Geometry Concepts:<br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/">Section 1: Basic Concepts</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-line-intersection-and-its-applications/">Section 2: Line Intersection and its Applications</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-using-geometry-in-topcoder-problems/">Section 3: Using Geometry in Topcoder Problems</a><br />
+Introduction to Graphs and Their Data Structures:<br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/">Section 1: Recognizing and Representing a Graph</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/">Section 2: Searching a Graph</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/">Section 3: Finding the Best Path through a Graph</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/">Greedy is Good</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/">Dynamic Programming: From Novice to Advanced</a>
+Computational Complexity</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/">Section 1</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/">Section 2</a><br />
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-regular-expressions-2/">Using Regular Expressions</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/">Understanding Probabilities</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/">Data Structures</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/sorting/">Sorting</a>
+Maximum Flow</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-1/">Section 1</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/">Section 2</a><br />
+Representation of Integers and Reals</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/representation-of-integers-and-reals-section-1/">Section 1</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/representation-of-integers-and-reals-section-2/">Section 2</a><br />
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/">Binary Search</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/a-bit-of-fun-fun-with-bits/">A bit of fun: fun with bits</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/">Range Minimum Query and Lowest Common Ancestor</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/">Power up C++ with the Standard Template Library: Part I</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/">Power up C++ with the Standard Template Library: Part II: Advanced Uses</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/">Prime Numbers, Factorization and Euler Function</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/">An Introduction to Recursion, Part 1</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/">An Introduction to Recursion, Part 2</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/">An Introduction to Binary Search and Red-Black Trees</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/">Line Sweep Algorithms</a>
+Minimum Cost Flow</a> <br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-one-key-concepts/">Part 1 &#8211; Key Concepts</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-two-algorithms/">Part 2 &#8211; Algorithms</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-three-applications/">Part 3 &#8211; Applications</a><br />
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/">Algorithm Games</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/">Binary Indexed Trees</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/">Introduction to String Searching Algorithms</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-augmenting-path-algorithms-comparison/">Maximum Flow: Augmenting Path Algorithms Comparison</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/basics-of-combinatorics/">Basics of Combinatorics</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/push-relabel-approach-to-the-maximum-flow-problem/">A New Approach to the Maximum Flow Problem</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/">Disjoint-set Data Structures</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/">Using Tries</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-multidimensional-databases/">An Introduction to Multidimensional Databases</a>
+The Best Questions for Would-be C++ Programmers</a> <br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/the-best-questions-for-would-be-c-programmers-part-1/">Part 1</a><br />
+
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/the-best-questions-for-would-be-c-programmers-part-2/">Part 2</a><br />
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/">Primality Testing : Non-deterministic Algorithms</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/assignment-problem-and-hungarian-algorithm/">Assignment Problem and Hungarian Algorithm</a>
