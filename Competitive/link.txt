@@ -1,1 +1,1 @@
-From <a href="http://www.gutenberg.org/ebooks/41595" target="_blank">"The Funny Side of Physic"</a> by A. D. Crabtre
+From <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/" target="_blank">Binary Search</a>
