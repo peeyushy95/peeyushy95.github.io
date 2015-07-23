@@ -1,5 +1,11 @@
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/basics-of-combinatorics/">Basics of Combinatorics</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/">Disjoint-set Data Structures</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/">Binary Indexed Trees</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/">Using Tries</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/">Line Sweep Algorithms</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/">Primality Testing : Non-deterministic Algorithms</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/">Algorithm Games</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/">Introduction to String Searching Algorithms</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/">Mathematics</a>
 Geometry Concepts:<br />
 
@@ -45,7 +51,6 @@ Representation of Integers and Reals</a><br />
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/">An Introduction to Recursion, Part 1</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2/">An Introduction to Recursion, Part 2</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/">An Introduction to Binary Search and Red-Black Trees</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/">Line Sweep Algorithms</a>
 Minimum Cost Flow</a> <br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-one-key-concepts/">Part 1 &#8211; Key Concepts</a><br />
@@ -53,12 +58,7 @@ Minimum Cost Flow</a> <br />
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-two-algorithms/">Part 2 &#8211; Algorithms</a><br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-three-applications/">Part 3 &#8211; Applications</a><br />
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/">Algorithm Games</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/">Binary Indexed Trees</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/">Introduction to String Searching Algorithms</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-augmenting-path-algorithms-comparison/">Maximum Flow: Augmenting Path Algorithms Comparison</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/basics-of-combinatorics/">Basics of Combinatorics</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/push-relabel-approach-to-the-maximum-flow-problem/">A New Approach to the Maximum Flow Problem</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/">Disjoint-set Data Structures</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-multidimensional-databases/">An Introduction to Multidimensional Databases</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/assignment-problem-and-hungarian-algorithm/">Assignment Problem and Hungarian Algorithm</a>
