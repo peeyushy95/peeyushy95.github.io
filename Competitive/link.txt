@@ -1,1 +1,1 @@
-From <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/" target="_blank">Binary Search</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/" target="_blank" style=" color: cadetblue;">Binary Search</a> - Topcoder
