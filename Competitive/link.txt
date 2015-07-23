@@ -1,4 +1,4 @@
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/">Mathematics for Topcoders</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/">Mathematics</a>
 Geometry Concepts:<br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/">Section 1: Basic Concepts</a><br />
