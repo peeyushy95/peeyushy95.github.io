@@ -1,16 +1,18 @@
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/">Mathematics</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/basics-of-combinatorics/">Basics of Combinatorics</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/">Binary Search</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/a-bit-of-fun-fun-with-bits/">A bit of fun: fun with bits</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/">Disjoint-set Data Structures</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/">Binary Indexed Trees</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/">Using Tries</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/">Line Sweep Algorithms</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/">Binary Indexed Trees</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/">Introduction to String Searching Algorithms</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/">Using Tries</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/">Power up C++ with the Standard Template Library: Part I</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/">Power up C++ with the Standard Template Library: Part II: Advanced Uses</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/">Prime Numbers, Factorization and Euler Function</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/">Primality Testing : Non-deterministic Algorithms</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/">Range Minimum Query and Lowest Common Ancestor</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/">Algorithm Games</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/">Introduction to String Searching Algorithms</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/">Mathematics</a>
 Geometry Concepts:<br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/">Section 1: Basic Concepts</a><br />
@@ -34,20 +36,11 @@ Computational Complexity</a><br />
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/">Section 2</a><br />
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-regular-expressions-2/">Using Regular Expressions</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/">Understanding Probabilities</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/">Data Structures</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/sorting/">Sorting</a>
 Maximum Flow</a><br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-1/">Section 1</a><br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/">Section 2</a><br />
-Representation of Integers and Reals</a><br />
-
-			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/representation-of-integers-and-reals-section-1/">Section 1</a><br />
-
-			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/representation-of-integers-and-reals-section-2/">Section 2</a><br />
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/">Range Minimum Query and Lowest Common Ancestor</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/">Prime Numbers, Factorization and Euler Function</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/">An Introduction to Binary Search and Red-Black Trees</a>
 Minimum Cost Flow</a> <br />
 
