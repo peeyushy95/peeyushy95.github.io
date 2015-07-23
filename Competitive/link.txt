@@ -15,6 +15,9 @@
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/">Dynamic Programming: From Novice to Advanced</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/">Range Minimum Query and Lowest Common Ancestor</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/">Algorithm Games</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/">An Introduction to Binary Search and Red-Black Trees</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-regular-expressions-2/">Using Regular Expressions</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/">Understanding Probabilities</a>
 Geometry Concepts:<br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/">Section 1: Basic Concepts</a><br />
@@ -34,14 +37,11 @@ Computational Complexity</a><br />
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/">Section 1</a><br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/">Section 2</a><br />
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-regular-expressions-2/">Using Regular Expressions</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/">Understanding Probabilities</a>
 Maximum Flow</a><br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-1/">Section 1</a><br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/">Section 2</a><br />
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/">An Introduction to Binary Search and Red-Black Trees</a>
 Minimum Cost Flow</a> <br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-one-key-concepts/">Part 1 &#8211; Key Concepts</a><br />
