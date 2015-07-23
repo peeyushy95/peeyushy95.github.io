@@ -60,10 +60,5 @@ Minimum Cost Flow</a> <br />
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/">Disjoint-set Data Structures</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/">Using Tries</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-multidimensional-databases/">An Introduction to Multidimensional Databases</a>
-The Best Questions for Would-be C++ Programmers</a> <br />
-
-			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/the-best-questions-for-would-be-c-programmers-part-1/">Part 1</a><br />
-
-			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/the-best-questions-for-would-be-c-programmers-part-2/">Part 2</a><br />
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/">Primality Testing : Non-deterministic Algorithms</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/assignment-problem-and-hungarian-algorithm/">Assignment Problem and Hungarian Algorithm</a>
