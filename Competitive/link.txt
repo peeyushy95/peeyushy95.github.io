@@ -11,6 +11,8 @@
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/">Power up C++ with the Standard Template Library: Part II: Advanced Uses</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/">Prime Numbers, Factorization and Euler Function</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/">Primality Testing : Non-deterministic Algorithms</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/">Greedy is Good</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/">Dynamic Programming: From Novice to Advanced</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/">Range Minimum Query and Lowest Common Ancestor</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/">Algorithm Games</a>
 Geometry Concepts:<br />
@@ -27,8 +29,6 @@ Introduction to Graphs and Their Data Structures:<br />
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/">Section 2: Searching a Graph</a><br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/">Section 3: Finding the Best Path through a Graph</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/">Greedy is Good</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/">Dynamic Programming: From Novice to Advanced</a>
 Computational Complexity</a><br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/">Section 1</a><br />
