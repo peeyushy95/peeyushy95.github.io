@@ -4,6 +4,6 @@ Inverse of a in field of  p(prime) = $a^{p - 2} \pmod p$ if gcd(a,p)=1
 Catalan Number $C_n = {2n\choose n} - {2n\choose n+1} = {1\over n+1}{2n\choose n} \quad\text{ for }n\ge 0$
 ${a\over b} \pmod m = {a \mod b*m \over b } \: Reason -> \: {a\over b} = r + k*m , a =r*b + k*(b*m)$
 There are only two number which are inverse of itself (1,p-1) in field of p.If a number is inverse of itself modulo p i.e  (1= u² % p)   p|u-1 or p|u+1 =>  u%p=1 or u%p=p-1.While all other number between 2 and p-2 can be paired to form inverse;
-$0 \equiv (n-1)! \pmod n\: where n is composite number , exception n = 4 $    
+$0 \equiv (n-1)! \pmod n\: where n is composite number , exception \: n = 4 $    
 if  n can be factored as the product of two unequal numbers , n = a*b, where 2 <= a < b <= n - 2, then both a and b will appear in the product 1 * 2 * ... * (n - 1) = (n - 1)! ,thus (n - 1)! will be divisible by n.
 If n has no such factorization, then it must be the square of some prime q, q > 2. But then 2*q < (q^2 = n), both q and 2*q will be factors of (n - 1)!, thus again n divides (n - 1)!.
