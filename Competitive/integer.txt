@@ -8,3 +8,4 @@ If we square an odd prime p ( $ 3 \equiv p \pmod 4$ ) then (4k+3)*(4k+3) =(4k’
 Sum of the square of two integers will be of the form 4k + r where r can only be 0, 1, 2.
 The product of two sums each of two squares is itself a sum of two squares i.e. for integers a, b, c, d . (a² + b²) (c² + d²) = (ac – bd)² + (ad + bc)² = (ac + bd)² + (ad – bc)² 
 $1 \oplus 2 \oplus  \cdots \oplus n = \begin{cases} n,  & \text{if  $n \pmod 4 \equiv 0 $} \\ 1, & \text{if  $n \pmod 4 \equiv 1$ } \\ n+1, & \text{if  $n \pmod 4 \equiv 2$ } \\ 0, & \text{if  $n \pmod 4 \equiv 3$ } \end{cases}$
+Zeckendorf's theorem states that every positive integer can be represented uniquely as the sum of one or more distinct Fibonacci numbers in such a way that the sum does not include any two consecutive Fibonacci numbers.
