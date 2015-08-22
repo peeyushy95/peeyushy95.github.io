@@ -1,3 +1,4 @@
+$ a^{phi(m)} \equiv 1 \pmod m \:$	, gcd(a,m)=1.
 $-1 \equiv (p-1)! \pmod p \:$	,p is prime.
 $fib(0) + fib(1) + \cdots + fib(n) = fib(n+2) - 1$
 Inverse of a in field of  p(prime) = $a^{p - 2} \pmod p$ if gcd(a,p)=1
