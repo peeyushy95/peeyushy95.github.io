@@ -1,3 +1,4 @@
+phi(n)= $n * (1 -{1\over p1})*(1 -{1\over p2})*(1 -{1\over p3})...  where n = p1^k1*p2*k2....$ 
 $ a^{phi(m)} \equiv 1 \pmod m \:$	, gcd(a,m)=1.
 $-1 \equiv (p-1)! \pmod p \:$	,p is prime.
 $fib(0) + fib(1) + \cdots + fib(n) = fib(n+2) - 1$
