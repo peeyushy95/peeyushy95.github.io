@@ -3,7 +3,6 @@ phi(p) = p - 1 , p is prime.
 If phi(n) = m , then phi(2*n) = m iff n is odd.
 $ a^{phi(m)} \equiv 1 \pmod m \:$	, gcd(a,m)=1.
 $-1 \equiv (p-1)! \pmod p \:$	,p is prime.
-$fib(0) + fib(1) + \cdots + fib(n) = fib(n+2) - 1$
 Inverse of a in field of  p(prime) = $a^{p - 2} \pmod p$ if gcd(a,p)=1.
 Catalan Number $C_n = {2n\choose n} - {2n\choose n+1} = {1\over n+1}{2n\choose n} \quad\text{ for }n\ge 0$
 ${a\over b} \pmod m = {a \mod b*m \over b } \: Reason -> \: {a\over b} = r + k*m , a =r*b + k*(b*m)$
