@@ -21,7 +21,7 @@ function readTextFile(file,id){
         if(!document.getElementById(id+line)){
             var element = document.createElement("li");
             element.setAttribute("id",id+line );
-            element.style.fontSize = "21px";
+            element.style.fontSize = "20px";
             element.innerHTML="<i class='fa-li fa fa-child' ></i> "+lines[line];
             output.appendChild(element);
             
