@@ -1,9 +1,10 @@
 phi(n)= $n * (1 -{1\over p1})*(1 -{1\over p2})*(1 -{1\over p3})...  where n = p1^{k1}*p2^{k2}....$ 
-phi(p) = p - 1 , p is prime
+phi(p) = p - 1 , p is prime.
+If phi(n) = m , then phi(2*n) = m iff n is odd.
 $ a^{phi(m)} \equiv 1 \pmod m \:$	, gcd(a,m)=1.
 $-1 \equiv (p-1)! \pmod p \:$	,p is prime.
 $fib(0) + fib(1) + \cdots + fib(n) = fib(n+2) - 1$
-Inverse of a in field of  p(prime) = $a^{p - 2} \pmod p$ if gcd(a,p)=1
+Inverse of a in field of  p(prime) = $a^{p - 2} \pmod p$ if gcd(a,p)=1.
 Catalan Number $C_n = {2n\choose n} - {2n\choose n+1} = {1\over n+1}{2n\choose n} \quad\text{ for }n\ge 0$
 ${a\over b} \pmod m = {a \mod b*m \over b } \: Reason -> \: {a\over b} = r + k*m , a =r*b + k*(b*m)$
 There are only two number which are inverse of itself (1,p-1) in field of p.If a number is inverse of itself modulo p i.e  (1= u² % p)   p|u-1 or p|u+1 =>  u%p=1 or u%p=p-1.While all other number between 2 and p-2 can be paired to form inverse;
