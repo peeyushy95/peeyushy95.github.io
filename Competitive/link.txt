@@ -3,7 +3,7 @@
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/" target="_blank">Binary Search</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/" target="_blank">Greedy is Good</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/basics-of-combinatorics/" target="_blank">Basics of Combinatorics</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/">Disjoint-set Data Structures</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/" target="_blank">Disjoint-set Data Structures</a>
 <a href="http://fusharblog.com/solving-linear-recurrence-for-programming-contest/" target="_blank">Solving Linear Recurrences</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/" target="_blank">Line Sweep Algorithms</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/" target="_blank">Using Tries</a>
