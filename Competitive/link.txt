@@ -51,6 +51,6 @@ Minimum Cost Flow</a> <br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-three-applications/">Part 3 &#8211; Applications</a><br />
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-augmenting-path-algorithms-comparison/">Maximum Flow: Augmenting Path Algorithms Comparison</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/push-relabel-approach-to-the-maximum-flow-problem/">A New Approach to the Maximum Flow Problem</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/push-relabel-approach-to-the-maximum-flow-problem/" target="_blank">A New Approach to the Maximum Flow Problem</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-multidimensional-databases/" target="_blank">An Introduction to Multidimensional Databases</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/assignment-problem-and-hungarian-algorithm/" target="_blank">Assignment Problem and Hungarian Algorithm</a>
