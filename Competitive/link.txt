@@ -45,7 +45,7 @@ Maximum Flow</a><br />
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/">Section 2</a><br />
 Minimum Cost Flow</a> <br />
 
-			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-one-key-concepts/">Part 1 &#8211; Key Concepts</a><br />
+			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-one-key-concepts/"  target="_blank">Part 1 &#8211; Key Concepts</a><br />
 
 			&#160;-&#160;<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/minimum-cost-flow-part-two-algorithms/" target="_blank">Part 2 &#8211; Algorithms</a><br />
 
