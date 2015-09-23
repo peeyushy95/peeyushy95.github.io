@@ -11,7 +11,7 @@
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/"  target="_blank" >Dynamic Programming: From Novice to Advanced</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/"  target="_blank" >Introduction to String Searching Algorithms</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/" target="_blank">Power up C++ with the Standard Template Library: Part I</a>
-<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/">Power up C++ with the Standard Template Library: Part II: Advanced Uses</a>
+<a href="https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/" target="_blank">Power up C++ with the Standard Template Library: Part II: Advanced Uses</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/">Prime Numbers, Factorization and Euler Function</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/">Primality Testing : Non-deterministic Algorithms</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/">Range Minimum Query and Lowest Common Ancestor</a>
