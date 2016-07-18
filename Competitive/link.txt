@@ -4,7 +4,8 @@
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/" target="_blank">Greedy is Good</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/basics-of-combinatorics/" target="_blank">Basics of Combinatorics</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/ " target="_blank">Disjoint-set Data Structures</a>
-<a href="http://fusharblog.com/solving-linear-recurrence-for-programming-contest/" target="_blank">Solving Linear Recurrences</a>
+<a href="https://www.hackerrank.com/contests/infinitum14/challenges/mutual-recurrences/editorial/" target="_blank">Solving Linear Recurrences-1</a>
+<a href="http://fusharblog.com/solving-linear-recurrence-for-programming-contest/" target="_blank">Solving Linear Recurrences-2</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/" target="_blank">Line Sweep Algorithms</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/" target="_blank">Using Tries</a>
 <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/" target="_blank">Binary Indexed Trees</a>
